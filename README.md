@@ -11,7 +11,6 @@
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
