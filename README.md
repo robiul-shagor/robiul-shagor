@@ -28,7 +28,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Next.JS, Node.JS, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Next.JS, Node.JS, Headless Tech, Everything API, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 I am the co-founder of [SoftHopper](https://softhopper.studio/), A Creative WordPress Development Agency. I Actively code on WordPress themes and plugins, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
