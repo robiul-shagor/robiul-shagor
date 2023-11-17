@@ -33,11 +33,8 @@ I am the co-founder of [SoftHopper](https://softhopper.studio/), A Creative Word
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Node.Js and API development.
-- 📫 I am just one mail away - [hasin at hasinhayder dot com]
-- 😄 Pronouns: He, Fat & Happy 😄
-- :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
-- :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
+- 💬 Ask me about Next.js, Vue.js, React.js, Alpine.js, PHP, WordPress, Node.Js and API development.
+- 📫 I am just one mail away - [mrhshagor at gmail dot com]
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux.
 
 
