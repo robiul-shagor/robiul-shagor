@@ -38,7 +38,10 @@ I am the co-founder of [SoftHopper](https://softhopper.studio/), A Creative Word
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux.
+
+### Numbers
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
 
 
 ### Where to find me
