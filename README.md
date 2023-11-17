@@ -5,6 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
@@ -27,13 +28,13 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Next.JS, Node.JS, Headless Tech, Everything API, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for  Next.JS, React.js, React Native, Node.JS, Alpine.js, Vue.js, Sanity, Strapi, Headless Tech, Everything API, WordPress, TailwindCSS. Currently, **I'm open to work and employment opportunities**.
 
 I am the co-founder of [SoftHopper](https://softhopper.studio/), A Creative WordPress Development Agency. I Actively code on WordPress themes and plugins, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Next.js, Vue.js, React.js, Alpine.js, PHP, WordPress, Node.Js and API development.
+- 💬 Ask me about Next.js, Vue.js, React.js, React Native, Alpine.js, PHP, WordPress, Node.Js and API development.
 - 📫 I am just one mail away - [mrhshagor at gmail dot com]
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux.
 
